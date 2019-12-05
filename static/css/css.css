@@ -132,16 +132,21 @@ margin-bottom: 5px;
 
 #portfolio{
     background: #cfcbcb;
-    /* padding-bottom: 120px; */
-    /* align: center; */
+    
+}
+.row__card{
+    margin-bottom: 140px;
+}
+.card{
+    margin-bottom: 70px;
+}
+.img_card{
+    height: 250px !important;
+    margin-bottom: 10px;
 }
 
-/* .works{
-    margin-top: 100px;
-} */
 
 .work img{
-    /* align-items: center; */
     float: left;
 }
 .work img:nth-child(2){
